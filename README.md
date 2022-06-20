@@ -7,7 +7,7 @@ We also provide a construction of a sequence of computable rational numbers, whi
 
 Future Work: 
 
-Prove that the Rationals are pimcodable, thus finishing the construction of the sequence of real numbers without a computable rate of convergence.
+Prove that the Rationals are pimcodable, thus finishing the construction of the sequence of rational numbers without a computable rate of convergence.
 
 Add to the case studies of quantitative convergences theorems of sequences of numbers satisfying recursive inequalities.
 
